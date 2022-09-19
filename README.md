@@ -77,3 +77,8 @@ if num % 2 == 0:
 else
    print(f'O valor {num} é ÍMPAR')
 ```
+
+Para ter uma lista completa dos emojis acesse: github.com/ikatyang
+Depois entre no repositório dela chamado emoji-cheat-sheet
+Basta colocar : e sair escrevendo o nome do emogi sem dar espaço depois do : que ele já irá sugerir autocompletações com os emojis
+Para colocar emoji no título de uma issue, o comando com : não funciona. Para isso é necessário entrar no site www.emojipedia.org escolher o emoji que quer e depois clicar no botão COPY desse emoji. Daí você vem e cola direto no título e assim funcionará.
