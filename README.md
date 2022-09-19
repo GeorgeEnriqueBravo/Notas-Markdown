@@ -58,3 +58,11 @@ Links:
 [Acesse meu GitHub](https://github.com/GeorgeEnriqueBravo)
 
 [Meu instagram](https://www.instagram.com/georgebravoo)
+
+Tabelas: 
+
+Num|Nome|Nota
+---|---|---
+1|George|10
+2|Gustavo|9
+3|Guanabara|8
