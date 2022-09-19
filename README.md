@@ -66,3 +66,14 @@ Num|Nome|Nota
 1|George|10
 2|Gustavo|9
 3|Guanabara|8
+
+Para você demarcar um texto como um comando, coloque ele ente crase `document.getElementById()` 
+
+Colocando 3 crases abrimos um espaço para colocar um código edepois fechamos com 3 crases de novo. Exemplo: Olha meu programa em Python:
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else
+   print(f'O valor {num} é ÍMPAR')
+```
