@@ -1,5 +1,7 @@
-# Notas-Markdown
-Repositório para anotações dos comandos em Markdown
+# Notas Markdown
+### Repositório para anotações dos comandos em Markdown
+
+---
 
 Testando a Linguagem de marcação Markdown:
 
