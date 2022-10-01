@@ -1,4 +1,4 @@
-# Notas Markdown
+# Notas Markdown <img width="6%" alt="💭" src="imagens/markdown.png"/>
 ### Repositório para anotações dos comandos em Markdown
 
 ---
