@@ -57,9 +57,11 @@ Colocando Imagem:
 
 Links:
 
-[Acesse meu GitHub](https://github.com/GeorgeEnriqueBravo)
+[Meu GitHub](https://github.com/GeorgeEnriqueBravo)
 
 [Meu instagram](https://www.instagram.com/georgebravoo)
+
+[Meu LinkedIn](https://www.linkedin.com/in/george-bravo/)
 
 Tabelas: 
 
