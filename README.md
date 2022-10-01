@@ -1,4 +1,4 @@
-# Notas Markdown <img width="6%" alt="💭" src="imagens/markdown.png"/>
+# <img width="5.5%" alt="📚" src="imagens/markdown2.png"/> Notas Markdown <img width="5.5%" alt="📖" src="imagens/markdown.png"/>  
 ### Repositório para anotações dos comandos em Markdown
 
 ---
